@@ -1,2 +1,2 @@
 # cle-windows-tuner
-Set of tools for managing Windows enviroments options in an easy way
+Set of tools for managing Windows environments options in an easy way
